@@ -1,0 +1,16 @@
+{
+  "name": "esprit-git",
+  "version": "1.0.0",
+  "description": "A git workshop for Esprit students.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "Esprit",
+    "workshop"
+  ],
+  "author": "Montacer",
+  "license": "ISC"
+}
